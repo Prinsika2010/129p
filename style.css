@@ -1,0 +1,40 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: blue;
+}
+
+body
+{
+    background-size: cover;
+}
+
+.div_sond
+{
+    float: left;
+}
+
+#song
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.play_button
+{
+    width: 130px;
+    height: 25px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
